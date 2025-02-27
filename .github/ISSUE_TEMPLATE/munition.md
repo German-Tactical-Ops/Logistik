@@ -1,6 +1,6 @@
 ---
 name: Munition
-about: Munition Auftrag
+about: Munition Kiste
 title: Munition
 labels: ''
 assignees: ''
