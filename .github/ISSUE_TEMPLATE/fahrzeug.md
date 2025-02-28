@@ -1,7 +1,7 @@
 ---
 name: Fahrzeug
 about: Liefern, Reparieren, Tanken, Befüllen, Bergen;
-title: Fahrzeug
+title: "->__ : Fahrzeug"
 labels: ''
 assignees: ''
 
